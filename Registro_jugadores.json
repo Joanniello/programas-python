@@ -1,0 +1,37 @@
+[
+    {
+        "Posicion": 1,
+        "Nombre": "Jose",
+        "Tiempo de juego(seg)": 26,
+        "Dinero Obtenido": 80,
+        "Fecha(UTC)": "Mon Mar 28 05:58:34 2022"
+    },
+    {
+        "Posicion": 2,
+        "Nombre": "Jose",
+        "Tiempo de juego(seg)": 46,
+        "Dinero Obtenido": 80,
+        "Fecha(UTC)": "Wed Mar 30 18:07:15 2022"
+    },
+    {
+        "Posicion": 3,
+        "Nombre": "Jose",
+        "Tiempo de juego(seg)": 67,
+        "Dinero Obtenido": 80,
+        "Fecha(UTC)": "Sun Apr 24 19:31:24 2022"
+    },
+    {
+        "Posicion": 4,
+        "Nombre": "Jose Nieves",
+        "Tiempo de juego(seg)": 62,
+        "Dinero Obtenido": 40,
+        "Fecha(UTC)": "Sun Apr 17 05:25:11 2022"
+    },
+    {
+        "Posicion": 5,
+        "Nombre": "gricel",
+        "Tiempo de juego(seg)": 507,
+        "Dinero Obtenido": 20,
+        "Fecha(UTC)": "Tue Mar 29 16:40:05 2022"
+    }
+]

@@ -1,0 +1,149 @@
+{
+    "clients": [
+        {
+            "name": "andres",
+            "password": "1234",
+            "withdraw": 0,
+            "deposit": 0,
+            "date": "Wed Apr  6 23:17:04 2022"
+        },
+        {
+            "name": "andres",
+            "password": "1234",
+            "withdraw": 500,
+            "deposit": 0,
+            "date": "Wed Apr  6 23:28:48 2022"
+        },
+        {
+            "name": "andres",
+            "password": "1234",
+            "withdraw": 90,
+            "deposit": 150,
+            "date": "Sat Apr 16 23:10:02 2022"
+        },
+        {
+            "name": "jose",
+            "password": "1411",
+            "withdraw": 200,
+            "deposit": 0,
+            "date": "Mon Apr 18 15:23:01 2022"
+        },
+        {
+            "name": "andres",
+            "password": "1234",
+            "withdraw": 60,
+            "deposit": 100,
+            "date": "Mon Apr 18 15:23:44 2022"
+        },
+        {
+            "name": "jose",
+            "password": "1411",
+            "withdraw": 0,
+            "deposit": 100,
+            "date": "Mon Apr 18 15:28:02 2022"
+        },
+        {
+            "name": "andres",
+            "password": "1234",
+            "withdraw": 0,
+            "deposit": 400,
+            "date": "Mon Apr 18 15:28:02 2022"
+        },
+        {
+            "name": "jose",
+            "withdraw": 50,
+            "deposit": 0,
+            "date": "Mon Apr 18 15:53:52 2022"
+        },
+        {
+            "name": "andres",
+            "withdraw": 100,
+            "deposit": 0,
+            "date": "Mon Apr 18 15:53:52 2022"
+        },
+        {
+            "name": "andres",
+            "withdraw": 0,
+            "deposit": 100,
+            "date": "Mon Apr 18 16:10:27 2022"
+        },
+        {
+            "name": "",
+            "withdraw": 50,
+            "deposit": 100,
+            "date": "Mon Apr 18 16:10:27 2022"
+        },
+        {
+            "name": "jose",
+            "withdraw": 100,
+            "deposit": 0,
+            "date": "Mon Apr 18 16:12:51 2022"
+        },
+        {
+            "name": "andres",
+            "withdraw": 100,
+            "deposit": 100,
+            "date": "Mon Apr 18 16:12:51 2022"
+        },
+        {
+            "name": "andres",
+            "withdraw": 0,
+            "deposit": 100,
+            "date": "Mon Apr 18 16:45:11 2022"
+        },
+        {
+            "name": "jose",
+            "withdraw": 100,
+            "deposit": 100,
+            "date": "Mon Apr 18 16:45:11 2022"
+        },
+        {
+            "name": "andres",
+            "withdraw": 0,
+            "deposit": 50,
+            "date": "Mon Apr 18 16:46:25 2022"
+        },
+        {
+            "name": "jose",
+            "withdraw": 0,
+            "deposit": 200,
+            "date": "Mon Apr 18 16:46:25 2022"
+        },
+        {
+            "name": "jose",
+            "withdraw": 0,
+            "deposit": 100,
+            "date": "Mon Apr 18 16:51:01 2022"
+        },
+        {
+            "name": "andres",
+            "withdraw": 0,
+            "deposit": 200,
+            "date": "Mon Apr 18 16:51:01 2022"
+        },
+        {
+            "name": "jose",
+            "withdraw": 0,
+            "deposit": 100,
+            "date": "Mon Apr 18 16:52:08 2022"
+        },
+        {
+            "name": "andres",
+            "withdraw": 0,
+            "deposit": 50,
+            "date": "Mon Apr 18 16:52:08 2022"
+        },
+        {
+            "name": "jose",
+            "withdraw": 100,
+            "deposit": 0,
+            "date": "Mon Apr 18 19:52:13 2022"
+        },
+        {
+            "name": "andres",
+            "withdraw": 100,
+            "deposit": 100,
+            "date": "Mon Apr 18 19:52:13 2022"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "clients": [
+        {
+            "name": "andres",
+            "age": 18,
+            "password": "1234",
+            "balance": 150
+        },
+        {
+            "name": "jose",
+            "age": 10,
+            "password": "6789",
+            "balance": 1000
+        },
+        {
+            "name": "pedro",
+            "age": 45,
+            "password": "5989",
+            "balance": 100000
+        },
+        {
+            "name": "jesus",
+            "age": 15,
+            "password": "4978",
+            "balance": 100
+        },
+        {
+            "name": "diego",
+            "age": 45,
+            "password": "5656",
+            "balance": 5955
+        },
+        {
+            "name": "tomas",
+            "age": 59,
+            "password": "5655",
+            "balance": 50000
+        },
+        {
+            "name": "jose",
+            "age": 26,
+            "password": "1411",
+            "balance": 0
+        },
+        {
+            "name": "jose",
+            "age": 26,
+            "password": "1234",
+            "balance": 1000
+        }
+    ]
+}

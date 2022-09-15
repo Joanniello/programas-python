@@ -1,0 +1,182 @@
+[
+  {
+    "Dificultad": 1,
+    "Pregunta": "Personaje de la franquicia Star wars que dijo: 'No, yo soy tu padre'",
+    "1": "Luke Skywalker",
+    "2": "Darth Vader",
+    "3": "Obiwan Kenobi",
+    "4": "Yoda",
+    "5": "Darth Vader"
+  },
+  {
+    "Dificultad": 1,
+    "Pregunta": "Quien es el actual campeon de Formula 1?",
+    "1": "Lewis Hamilton",
+    "2": "Max Verstappen",
+    "3": "Fabio Quartararo",
+    "4": "Sebastian Vettel",
+    "5": "Max Verstappen"
+  },
+  {
+    "Dificultad": 1,
+    "Pregunta": "Que actor es conocido por interpretar a Steve Rogers en el UCM?",
+    "1": "Chris Pratt",
+    "2": "Chris Pine",
+    "3": "Chris Hemsworth",
+    "4": "Chris Evans",
+    "5": "Chris Evans"
+  },
+  {
+    "Dificultad": 1,
+    "Pregunta": "Quien fue el fundador de Microsoft?",
+    "1": "Steve Jobs",
+    "2": "Elon Musk",
+    "3": "Bill Gates",
+    "4": "Mark Zuckerberg",
+    "5": "Bill Gates"
+  },
+   {
+    "Dificultad": 1,
+    "Pregunta": "Cual era la profesion del papa de abuela coco, de la pelicula Coco de Disney Pixar?",
+    "1": "Zapatero",
+    "2": "Agricultor",
+    "3": "Musico",
+    "4": "Marinero",
+    "5": "Musico"
+  },
+  {
+    "Dificultad": 2,
+    "Pregunta": "No tengo trono ni reina, ni nadie que me comprenda pero sigo siendo el",
+    "1": "Papa de los helados",
+    "2": "Dios",
+    "3": "Jefe",
+    "4": "Rey",
+    "5": "Rey"
+  },
+  {
+    "Dificultad": 2,
+    "Pregunta": "Que deportista se conocio por tener 'la Mano de Dios'",
+    "1": "Diego Maradona",
+    "2": "Rafael Nadal",
+    "3": "Michael Jordan",
+    "4": "Miguel Cabrera",
+    "5": "Diego Maradona"
+  },
+  {
+    "Dificultad": 2,
+    "Pregunta": "Cual es el lenguaje de programacion previo a C?",
+    "1": "Algol",
+    "2": "C++",
+    "3": "B",
+    "4": "Fortran",
+    "5": "C++"
+  },
+  {
+    "Dificultad": 2,
+    "Pregunta": "Cuantos cromosomas tiene el cangrejo?",
+    "1": "200",
+    "2": "96",
+    "3": "1001",
+    "4": "46",
+    "5": "200"
+  },
+  {
+    "Dificultad": 2,
+    "Pregunta": "Cual de los siguientes no es un lenguaje compilado?",
+    "1": "Java",
+    "2": "C#",
+    "3": "Python",
+    "4": "Haskell",
+    "5": "Python"
+  },
+  {
+    "Dificultad": 3,
+    "Pregunta": "Como se llamaba la maquina de Flint loco?",
+    "1": "FLDSMDFR",
+    "2": "FLDMSDFR",
+    "3": "FLDSMFDR",
+    "4": "FLDSMRDF",
+    "5": "FLDSMDFR"
+  },
+  {
+    "Dificultad": 3,
+    "Pregunta": "Cual de los siguientes tenistas nunca gano los 4 grand slam?",
+    "1": "Rafael Nadal",
+    "2": "Pete Sampras",
+    "3": "Andre Agassi",
+    "4": "Rod Laver",
+    "5": "Pete Sampras"
+  },
+  {
+    "Dificultad": 3,
+    "Pregunta": "La capital de Barbados es:",
+    "1": "Paramaribo",
+    "2": "Georgetown",
+    "3": "Cockburn Town",
+    "4": "Bridgetown",
+    "5": "Bridgetown"
+  },
+   {
+    "Dificultad": 3,
+    "Pregunta": "HTML es un lenguaje de: ",
+    "1": "lenguaje de marcado",
+    "2": "lenguaje de programacion",
+    "3": "lenguaje de marcas de hipertexto",
+    "4": "lenguaje de sintaxis",
+    "5": "lenguaje de marcas de hipertexto"
+  },
+  {
+    "Dificultad": 3,
+    "Pregunta": "Cual de la siguientes es una estructura de seleccion?",
+    "1": "for",
+    "2": "if",
+    "3": "do while",
+    "4": "while",
+    "5": "if"
+  },
+  {
+    "Dificultad": 4,
+    "Pregunta": "Cuales son los paradigmas de programacion?",
+    "1": "Imperativo y declarativo",
+    "2": "Orientado a Objetos y declarativo",
+    "3": "Imperativo y Funcional",
+    "4": "Scripting y logico",
+    "5": "Imperativo y declarativo"
+  },
+  {
+    "Dificultad": 4,
+    "Pregunta": "Que ocurrio el viernes negro de 1983?",
+    "1": "Hubo una rebaja del 50% en todas las tiendas y negocios",
+    "2": "Una erupcion volcanica oscurecio el cielo",
+    "3": "Se devaluo el bolivar",
+    "4": "Hubo un golpe de estado en la capital del pais",
+    "5": "Se devaluo el bolivar"
+  },
+  {
+    "Dificultad": 4,
+    "Pregunta": "Cual fue el trabajo que le otorgo el Premio Nobel a Albert Einstein?",
+    "1": "Teoria General de la Relatividad",
+    "2": "Equivalencia entre masa y energia",
+    "3": "Estadistica de Bose-Einstein",
+    "4": "Efecto Fotoelectrico",
+    "5": "Efecto Fotoelectrico"
+  },
+  {
+    "Dificultad": 4,
+    "Pregunta": "El primer 'bug de computadora' fue ocasionado por: ",
+    "1": "Grace Hooper",
+    "2": "Error de software",
+    "3": "Debuggers",
+    "4": "Insecto real",
+    "5": "Insecto real"
+  },
+  {
+    "Dificultad": 4,
+    "Pregunta": "Que metodos de organizacion surgieron como alternativa a los metodos tradicionales?",
+    "1": "Scrum",
+    "2": "Agile",
+    "3": "Trello",
+    "4": "Agile Inception",
+    "5": "Agile"
+  }
+]
